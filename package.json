@@ -1,0 +1,27 @@
+{
+  "name": "fugased",
+  "version": "1.0.0",
+  "description": "A finite key-value cache using the Least Recently Used (LRU) cache algorithm where the most recently used objects are keept in cache while less recently used items are purged.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-core.js && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YasmeenMedhurst/fugased.git"
+  },
+  "keywords": [
+    "cache",
+    "consequuntur",
+    "list",
+    "least",
+    "recently",
+    "libero"
+  ],
+  "author": "ClementShanahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YasmeenMedhurst/fugased.git/issues"
+  },
+  "homepage": "https://github.com/YasmeenMedhurst/fugased.git"
+}
